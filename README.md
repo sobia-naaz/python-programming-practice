@@ -28,14 +28,14 @@ This repository contains a structured collection of Python programming exercises
 
 Programming-Practice<br>
 │
-├── python_basics
-│   ├── 01_print_hello.py
-│   ├── 02_add_two_numbers.py
-│   ├── 03_even_odd.py
-│   ├── 04_largest_of_three.py
-│   ├── 05_factorial.py
-├── python_intermediate
-└── python_advanced
+├── python_basics<br>
+│   ├── 01_print_hello.py<br>
+│   ├── 02_add_two_numbers.py<br>
+│   ├── 03_even_odd.py<br>
+│   ├── 04_largest_of_three.py<br>
+│   ├── 05_factorial.py<br>
+├── python_intermediate<br>
+└── python_advanced<br>
 
 ## Purpose of the Repository
 
