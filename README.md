@@ -1,4 +1,4 @@
-# python-programming-practice
+# Programming Practice
 
 ## Description
 
@@ -26,17 +26,16 @@ This repository contains a structured collection of Python programming exercises
 
 ## Repository Structure
 
-* **python_basics**
-
-  * Programs covering fundamental Python concepts such as loops, conditionals, strings, and lists.
-
-* **python_intermediate**
-
-  * Exercises involving algorithms, file handling, dictionaries, and small command-line utilities.
-
-* **python_advanced**
-
-  * Programs demonstrating practical applications, including APIs, automation, web scraping, and introductory machine learning.
+Programming-Practice
+│
+├── python_basics
+│   ├── 01_print_hello.py
+│   ├── 02_add_two_numbers.py
+│   ├── 03_even_odd.py
+│   ├── 04_largest_of_three.py
+│   ├── 05_factorial.py
+├── python_intermediate
+└── python_advanced
 
 ## Purpose of the Repository
 
