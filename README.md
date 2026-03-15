@@ -28,7 +28,7 @@ This repository contains a structured collection of Python programming exercises
 
 Programming-Practice
 │
-├── python_basics
+├── python_basics/n
 │   ├── 01_print_hello.py
 │   ├── 02_add_two_numbers.py
 │   ├── 03_even_odd.py
