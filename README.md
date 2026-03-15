@@ -56,4 +56,16 @@ Programming-Practice<br>
 * Standard Python libraries
 * Selected external libraries for advanced programs (e.g., NumPy, requests, BeautifulSoup).
 
+## How to Run
 
+1. Clone the repository
+
+git clone https://github.com/sobia-naaz/python-programming-practice.git
+
+2. Navigate to the project directory
+
+cd python-programming-practice
+
+3. Run any Python file
+
+python filename.py
