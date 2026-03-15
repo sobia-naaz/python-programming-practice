@@ -57,8 +57,4 @@ This repository contains a structured collection of Python programming exercises
 * Standard Python libraries
 * Selected external libraries for advanced programs (e.g., NumPy, requests, BeautifulSoup).
 
-## Author
-
-Sobia Naaz
-M.Sc. Bioinformatics
 
