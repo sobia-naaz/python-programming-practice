@@ -34,6 +34,21 @@ Programming-Practice<br>
 │   ├── 03_even_odd.py<br>
 │   ├── 04_largest_of_three.py<br>
 │   ├── 05_factorial.py<br>
+│   ├── 06_fibonacci_sequence.py<br>
+│   ├── 07_prime_number_check.py<br>
+│   ├── 08_reverse_string.py<br>
+│   ├── 09_count_vowels_consonants.py<br>
+│   ├── 10_palindrome_check.py<br>
+│   ├── 11_sum_of_digits.py<br>
+│   ├── 12_multiplication_table.py<br>
+│   ├── 13_swap_without_temp.py<br>
+│   ├── 14_remove_duplicates_list.py<br>
+│   ├── 15_max_element_list.py<br>
+│   ├── 16_second_largest_number.py<br>
+│   ├── 17_merge_dictionaries.py<br>
+│   ├── 18_word_frequency.py<br>
+│   ├── 19_temperature_converter.py<br>
+│   ├── 20_common_elements_lists.py<br>
 ├── python_intermediate<br>
 └── python_advanced<br>
 
